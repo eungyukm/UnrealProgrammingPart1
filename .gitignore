@@ -42,19 +42,19 @@
 *.VC.opendb
 
 # Precompiled Assets
-SourceArt/**/*.png
-SourceArt/**/*.tga
+Project/SourceArt/**/*.png
+Project/SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+Project/Binaries/*
+Project/Plugins/*/Binaries/*
 
 # Builds
-Build/*
+Project/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
-Build/*/**
+Project/Build/*/**
 !Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
@@ -67,8 +67,11 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/*/Intermediate/*
+Project/Intermediate/*
+Project/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+Project/DerivedDataCache/*
+Project/.idea/.idea.Project.dir/.idea/encodings.xml
+Project/.idea/.idea.Project.dir/.idea/indexLayout.xml
+Project/.idea/.idea.Project.dir/.idea/vcs.xml
