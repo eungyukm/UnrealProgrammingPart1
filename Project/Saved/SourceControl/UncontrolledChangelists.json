@@ -6,10 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/MyMyInteractiveActor.uasset",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/Input/IA_Fire.uasset",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/MyFKeyActor.uasset",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1Y/5S1UYJOK02DG05EEU0L1C5.uasset",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/Blueprints/FKeyActor.uasset",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BB/RDY6ASBC47MBEHZ23AZ6SA.uasset",
+				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/C7/EVJWH8I3KPKGZL2HDTARB1.uasset",
 				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QD/6S3PVP9CJKP69HGCPFUEVJ.uasset",
-				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/MyMyInteractiveActor.uasset",
 				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/47/WJOGFD6NI08UMBLZLGHD1A.uasset",
-				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/MyMyInteractiveActor.uasset",
 				"/Users/eungyukim/Documents/GitHub/UnrealProgrammingPart1/Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZW/GKYYYHLWFXNEZ2S02RR9YT.uasset"
 			]
 		}
